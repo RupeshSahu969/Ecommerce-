@@ -1,0 +1,1 @@
+php artisan migrate:refresh --path=.\database\migrations\2021_07_04_031343_create_products_table.php
